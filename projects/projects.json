@@ -3647,7 +3647,22 @@
         "Static",
         "Responsive"
       ]
-    }
+    },
+	{
+	  "name": "SYGEFOR",
+	  "thumb": "sygefor/thumb.png",
+	  "desc": "A web application to manage training events and registrations.",
+	  "url": "https://sygefor.reseau-urfist.fr",
+	  "info": "http://urfistinfo.hypotheses.org/2730",
+	  "src": "https://github.com/conjecto/sygefor",
+	  "submitter": "bdecarne",
+	  "submissionDate": "2015-03-02",
+	  "tags": [
+		"Application", "Training", "Events",
+		"ElasticSearch", "jQuery", "Gulp"
+		"Open Source"
+	  ]
+	}
 
   ]
 }
